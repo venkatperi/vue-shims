@@ -2,6 +2,7 @@
   "name": "@venkatperi/vue-shims",
   "version": "1.0.1",
   "description": "",
+  "types": "index.d.ts",
   "scripts": {},
   "keywords": [],
   "author": "Venkat Peri <venkatperi@gmail.com> (http://www.vperi.com/)",
