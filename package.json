@@ -1,9 +1,8 @@
 {
   "name": "@venkatperi/vue-shims",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "Venkat Peri <venkatperi@gmail.com> (http://www.vperi.com/)",
   "license": "MIT",
